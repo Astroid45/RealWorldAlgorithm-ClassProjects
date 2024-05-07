@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Sorting Algorithms/lib/bridges-java-3.4.2.jar",
+        "/Users/zay/Downloads/bridges-java-3.4.2.jar"
+    ]
+}
